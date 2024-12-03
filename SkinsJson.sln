@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{32F4C940-C60A-4A02-AF23-64F1CF6ED925}"
+	ProjectSection(SolutionItems) = preProject
+		generate_skins.py = generate_skins.py
+		naja.py = naja.py
+		skins.py = skins.py
+		skins2.py = skins2.py
+		skins3.py = skins3.py
+		skins4.py = skins4.py
+		skins5.py = skins5.py
+		skins6.py = skins6.py
+		skins7.py = skins7.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E6A817-9531-4416-9C2D-2775E60CFE24}
+	EndGlobalSection
+EndGlobal
